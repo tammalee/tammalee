@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about WordPress
 - 📫 How to reach me: Twitter @tammalee
 - 😄 Pronouns: She/They
-- ⚡ (https://dev.to/tammalee)[Dev.to]
+- ⚡ https://dev.to/tammalee
 
