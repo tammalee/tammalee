@@ -5,11 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a personal website
-- 🌱 I’m currently learning Python & C#
-- 👯 I’m looking to collaborate on educational materials
-- 💬 Ask me about WordPress
+- 🔭 I’m currently working in private Bitbucket repositories
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Generative AI projects
+- 💬 Ask me about educational materials or AI
 - 📫 How to reach me: Twitter @tammalee
-- 😄 Pronouns: She/They
-- ⚡ https://dev.to/tammalee
 
